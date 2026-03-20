@@ -1,1 +1,0 @@
-# 20242515bigdata-project
